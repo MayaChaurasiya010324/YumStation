@@ -43,13 +43,10 @@ Platter Palooza provides a complete solution for designing and managing food pla
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/platter-palooza.git
-   cd platter-palooza
+   git clone https://github.com/yourusername/yum-station.git
+   cd yumStation
 
 
-
-=======
->>>>>>> b05e3acbc1a265c6f87a689317c4f5eba75f9ba7
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
