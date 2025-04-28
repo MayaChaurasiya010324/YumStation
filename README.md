@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
-
 # Platter Palooza
 
 **Platter Palooza** is a cutting-edge food application developed using the MERN stack (MongoDB, Express.js, React, Node.js). It offers a seamless, user-friendly experience for choosing various dishes that you can order and add to cart.
@@ -63,7 +58,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-<<<<<<< HEAD
-=======
->>>>>>> 071be7da127154eca14b296b9829244fa2f2f992
->>>>>>> b05e3acbc1a265c6f87a689317c4f5eba75f9ba7
